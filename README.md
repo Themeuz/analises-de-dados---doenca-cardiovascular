@@ -26,6 +26,92 @@ Este estudo é para mostrar as pessoas que mais tendem a sofrer com ataque card�
 *Angina
 A dor associada à DC muito avançada é conhecida como angina e geralmente se apresenta como uma sensação de pressão no peito, dor no braço, dor na mandíbula e outras formas de desconforto.*
 
+## O que é Colesterol e como evita-lo?
+![cholesterol](https://cdn.discordapp.com/attachments/899049208324161548/1202010731047038997/cholesterol.jpg?ex=65d5213a&is=65c2ac3a&hm=b8a219acb826b2e3e1e95efceb72391807bff8bbcbf1942d94b6042a605ffef2&)
+
+O colesterol é uma substância gordurosa natural presente em todas as células do corpo humano. É essencial para algumas funções importantes, como a produção de hormônios e vitamina D. No entanto, o excesso de colesterol no sangue pode ser prejudicial à saúde, aumentando o risco de doenças cardíacas e derrames.
+
+## Tipos de colesterol:
+
+* LDL (lipoproteína de baixa densidade): conhecido como "colesterol ruim", pois se acumula nas artérias, podendo causar obstrução.
+* HDL (lipoproteína de alta densidade): conhecido como "colesterol bom", pois ajuda a remover o LDL do sangue.
+* Triglicerídeos: outro tipo de gordura no sangue, que também pode aumentar o risco de doenças cardíacas.
+
+## Causas do colesterol alto:
+
+* Fatores genéticos: algumas pessoas têm predisposição a ter colesterol alto.
+* Dieta: consumo excessivo de alimentos ricos em gorduras saturadas e trans, colesterol e gorduras trans.
+* Falta de atividade física: o sedentarismo contribui para o aumento do colesterol LDL e diminuição do HDL.
+* Excesso de peso ou obesidade: o excesso de peso pode aumentar o colesterol LDL e diminuir o HDL.
+* Tabagismo: fumar aumenta o colesterol LDL e diminui o HDL.
+* Diabetes: pessoas com diabetes tipo 2 podem ter colesterol alto.
+
+## Sintomas do colesterol alto:
+
+* Geralmente não apresenta sintomas.
+* Em casos graves: dor no peito, angina, falta de ar, ataque cardíaco ou AVC.
+
+## Prevenção do colesterol alto:
+
+* Dieta saudável:
+* Consumir alimentos ricos em fibras solúveis (frutas, legumes, aveia).
+* Reduzir o consumo de gorduras saturadas (carnes vermelhas, produtos lácteos integrais).
+* Evitar gorduras trans (alimentos industrializados).
+* Consumir gorduras monoinsaturadas e poliinsaturadas (azeite de oliva, óleos vegetais).
+
+## Atividade física:
+* Praticar exercícios físicos regularmente (pelo menos 30 minutos por dia).
+## Manter um peso saudável:
+* Se estiver acima do peso, perder peso pode ajudar a reduzir o colesterol.
+## Parar de fumar:
+* Fumar aumenta o colesterol LDL e diminui o HDL.
+## Controlar o diabetes:
+* Pessoas com diabetes tipo 2 podem precisar tomar medicamentos para controlar o colesterol.
+
+## Tratamento do colesterol alto:
+
+** Medicamentos:
+* Estatinas: reduzem a produção de colesterol no fígado.
+* Inibidores da absorção de colesterol: impedem a absorção de colesterol no intestino.
+* Ezetimiba: reduz a absorção de colesterol no intestino.
+* Ácidos graxos ômega-3: aumentam o colesterol HDL.
+## Recomendações:
+
+## Consultar um médico:
+* É importante consultar um médico para verificar os níveis de colesterol e receber orientação sobre o tratamento adequado.
+## Manter um estilo de vida saudável:
+* Uma dieta saudável, atividade física regular e um peso saudável são essenciais para prevenir e controlar o colesterol alto.
+
+![Dores no peito](https://cdn.discordapp.com/attachments/899049208324161548/1202010732204400680/chestpainfinal-01-5c1b07abc9e77c0001fecc31.png?ex=65d5213a&is=65c2ac3a&hm=e6bd25f97a99d84c4b2100520456783f9ac093a78cb1ff1e062493bcbd9cf3a8&)
+
+## Dor de origem cardíaca:
+* Angina: dor ou aperto no peito, geralmente provocada por esforço físico ou estresse emocional. Pode irradiar para o braço esquerdo, mandíbula, costas ou pescoço. É um sintoma de doença cardíaca coronariana, que ocorre quando as artérias que irrigam o coração estão parcialmente bloqueadas.
+* Infarto do miocárdio: dor intensa e prolongada no peito, geralmente descrita como aperto, pressão ou queimação. Pode vir acompanhada de outros sintomas como náusea, suor frio, falta de ar e tontura. É uma emergência médica que requer atendimento imediato.
+* Pericardite: inflamação da membrana que envolve o coração. Pode causar dor aguda e pontada no peito, que piora com a respiração e a tosse.
+
+
+## Dor de origem musculoesquelética:
+
+* Costochondrite: inflamação das cartilagens que conectam as costelas ao esterno. Causa dor aguda e pontada na região anterior do tórax, que piora com o movimento e a respiração.
+* Síndrome do manguito rotador: lesão nos tendões que envolvem o ombro. Pode causar dor na parte superior do braço e no ombro, que pode irradiar para o peito.
+
+## Dor de origem pulmonar:
+
+* Pneumotórax: entrada de ar entre o pulmão e a pleura (membrana que envolve o pulmão). Causa dor aguda e repentina no peito, que piora com a respiração.
+* Embolia pulmonar: obstrução de uma artéria no pulmão por um coágulo sanguíneo. Pode causar dor torácica aguda, falta de ar e tosse com sangue.
+
+* Ansiedade e stress: podem causar dor no peito desconfortável, mas não perigosa.
+* Refluxo gastroesofágico: pode causar dor no peito, que piora após comer ou deitar.
+* Doenças da vesícula biliar: podem causar dor na parte superior direita do abdômen, que pode irradiar para o peito.
+* É importante lembrar que esta lista não é exaustiva e que a dor no peito pode ter outras causas. Se você estiver sentindo dor no peito, é importante procurar um médico para um diagnóstico preciso e o tratamento adequado.
+
+## O que você pode fazer:
+
+* Descreva a dor ao médico detalhadamente: localização, intensidade, duração, fatores que a aliviam ou pioram, sintomas associados.
+* Informe o médico sobre seu histórico médico e familiar.
+* Faça exames solicitados pelo médico.
+
+
 
 #### Bibliotecas usadas importadas abaixo:
 
