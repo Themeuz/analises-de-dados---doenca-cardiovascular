@@ -3,7 +3,7 @@
 
 Este estudo é para mostrar as pessoas que mais tendem a sofrer com ataque cardíaco, determinar os principais alvos e os grupos de riscos, tais como idade, gênero, ambiente, etc... A intenção além de treinar meu conhecimento com análise de dados também é conscientizar e melhorar a prevenção da doença.
 
-### Abreviações e Significados
+## Abreviações e Significados
 
 * **Age** : Idade do Paciente
 * **Sex** : Genero do Paciente
@@ -17,7 +17,7 @@ Este estudo é para mostrar as pessoas que mais tendem a sofrer com ataque card�
 * **thalach** : Frequência cardiaca máxima
 
 
-### Visão geral das doenças cardiovasculares
+## Visão geral das doenças cardiovasculares
 
 *Não é uma única doença, mas um conjunto de doenças e lesões que afetam o sistema cardiovascular (o coração e os vasos sanguíneos). Existem diversos fatores que causam a doença cardiovasculares, tais como gordura no sangue, açúcar no sangue (diabetes), estresse emocional, pressão alta, idade avançada, hipertensão, diabetes, hipercolesterolemia, tabagismo, histórico familiar e sedentarismo.*
 
@@ -113,7 +113,7 @@ O colesterol é uma substância gordurosa natural presente em todas as células 
 
 
 
-#### Bibliotecas usadas importadas abaixo:
+### Bibliotecas usadas importadas abaixo:
 
 ```ruby
 import pandas as pd
@@ -125,7 +125,7 @@ df = pd.read_csv('/kaggle/input/heart-attack-analysis-prediction-dataset/heart.c
 df.head()
 ```
 
-#### Leitura da data base:
+### Leitura da data base:
 
 ```ruby
 df.tail()
@@ -190,9 +190,9 @@ plt.show()
 df['age'].value_counts()
 ```
 
-###Quem são os mais afetados com problemas cardiaco, mais velhos, quem faz ou não exercícios?
-###Com qual dos dois gêneros temos mais problemas cardíacos, mulheres ou homens?
-###Como podemos evitar problemas cardiacos com o grupo de pessoa mais afetado?
+##Quem são os mais afetados com problemas cardiaco, mais velhos, quem faz ou não exercícios?
+##Com qual dos dois gêneros temos mais problemas cardíacos, mulheres ou homens?
+##Como podemos evitar problemas cardiacos com o grupo de pessoa mais afetado?
 
 ```ruby
 df.columns
