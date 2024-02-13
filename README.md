@@ -125,7 +125,7 @@ df = pd.read_csv('/kaggle/input/heart-attack-analysis-prediction-dataset/heart.c
 df.head()
 ```
 
-### Leitura da data base:
+## Leitura da data base:
 
 ```ruby
 df.tail()
@@ -190,9 +190,9 @@ plt.show()
 df['age'].value_counts()
 ```
 
-##Quem são os mais afetados com problemas cardiaco, mais velhos, quem faz ou não exercícios?
-##Com qual dos dois gêneros temos mais problemas cardíacos, mulheres ou homens?
-##Como podemos evitar problemas cardiacos com o grupo de pessoa mais afetado?
+## Quem são os mais afetados com problemas cardiaco, mais velhos, quem faz ou não exercícios?
+## Com qual dos dois gêneros temos mais problemas cardíacos, mulheres ou homens?
+## Como podemos evitar problemas cardiacos com o grupo de pessoa mais afetado?
 
 ```ruby
 df.columns
